@@ -1,13 +1,11 @@
 <h1 align="center">Merhaba 👋 , ben Sıla.</h1><h3 align="center">
-Ben .NET geliştiricisiyim. Senin için kodluyorum !</h3>- Şu anda öğreniyorum **React ve VS**- Bana **C#, Java**- Bana nasıl ulaşılır **
+Ben .NET geliştiricisiyim. Senin için kodluyorum !
 
 
-
-silasungu@icloud.com**
 
 - 📄 🌱 💬 Deneyimlerimi öğrenin [https://www.linkedin.com/in/silasungu/](https://www.linkedin.com/in/silasungu/)
 
-<h3 align="left">Benimle bağlantı kur:</h3><p align="left">
+Benimle bağlantı kur:
 
 
 
